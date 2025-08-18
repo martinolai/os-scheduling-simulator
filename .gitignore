@@ -1,0 +1,1 @@
+*.o\n*.exe\n*.out\nbuild/\n.vscode/\n.idea/
