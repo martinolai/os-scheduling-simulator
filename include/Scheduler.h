@@ -1,5 +1,5 @@
 /**
- * Scheduler.h - Abstract Scheduler Base Class Header File
+ * Scheduler.h - Abstract Scheduler Base Class HEADER FILE
  * 
  * This header file defines the abstract Scheduler base class that provides
  * common functionality for all CPU scheduling algorithms. It implements the
