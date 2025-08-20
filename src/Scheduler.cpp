@@ -1,7 +1,7 @@
 /**
  * Scheduler.cpp - Abstract Scheduler Base Class Implementation File
  * 
- * This source file contains the implementation of the abstract Scheduler base class
+ * This SOURCE FILE contains the implementation of the abstract Scheduler base class
  * that provides common functionality for all CPU scheduling algorithms.
  * 
  */
