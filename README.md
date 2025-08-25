@@ -51,7 +51,7 @@ make
 
 ---
 
-## 🚀 Usage
+### 🚀 Usage
 
 After running the program, you can:
 
