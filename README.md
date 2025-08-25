@@ -14,22 +14,23 @@ A **C++ simulator** for classic CPU scheduling algorithms, useful for learning, 
 ---
 
 ## 📂 Project Structure  
+```text
 os-scheduling-simulator/
 ├── include/
-│ ├── FCFScheduler.h
-│ ├── PriorityScheduler.h
-│ ├── Process.h
-│ ├── RoundRobinScheduler.h
-│ ├── SJFScheduler.h
-│ └── Scheduler.h
+│   ├── FCFScheduler.h
+│   ├── PriorityScheduler.h
+│   ├── Process.h
+│   ├── RoundRobinScheduler.h
+│   ├── SJFScheduler.h
+│   └── Scheduler.h
 ├── src/
-│ ├── FCFScheduler.cpp
-│ ├── PriorityScheduler.cpp
-│ ├── Process.cpp
-│ ├── RoundRobinScheduler.cpp
-│ ├── SJFScheduler.cpp
-│ ├── Scheduler.cpp
-│ └── main.cpp
+│   ├── FCFScheduler.cpp
+│   ├── PriorityScheduler.cpp
+│   ├── Process.cpp
+│   ├── RoundRobinScheduler.cpp
+│   ├── SJFScheduler.cpp
+│   ├── Scheduler.cpp
+│   └── main.cpp
 └── README.md
 
 - `include/` → all **header files** (class definitions, interfaces)  
