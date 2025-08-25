@@ -114,6 +114,4 @@ Issues and PRs are welcome! Ideas:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.duling algorithm (FCFS, SJF, RR, Priority).**
-
-- **View execution order and performance metrics.**
+This project is licensed under the **MIT License**.
