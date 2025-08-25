@@ -49,6 +49,8 @@ cmake ..
 make
 ./scheduling_simulator
 
+---
+
 ## 🚀 Usage
 
 After running the program, you can:
